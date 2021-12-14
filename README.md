@@ -1,2 +1,5 @@
 # Times-series-forcasting
-ARIMA,SARIMA etc
+###### ARIMA
+###### SAIRAMA
+###### Prophet
+###### Orbit
